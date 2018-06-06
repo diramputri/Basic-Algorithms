@@ -7,4 +7,4 @@ Python files
 
 My notes for other machine learning beginners
 
-Link to helpful scientific articles and resources
+Scientific articles and resources: https://tinyurl.com/y783pklv
