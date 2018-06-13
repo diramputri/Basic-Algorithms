@@ -7,4 +7,8 @@ Python files
 
 My notes for other machine learning beginners
 
+Linear Algebra
+Bayesian Statistics
+Data Structures and Algorithms (Java)
+
 Scientific articles and resources: https://tinyurl.com/y783pklv
