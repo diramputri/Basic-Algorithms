@@ -5,6 +5,6 @@ Images for training data: http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 Python files
 
-My notes for other machine learning beginners
+Algorithms/data structures notes: https://tinyurl.com/y93nwbjz
 
 Scientific articles and resources: https://tinyurl.com/y783pklv
