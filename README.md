@@ -3,8 +3,10 @@ Have you ever came across a good boy (or girl) and wondered what kind of breed(s
 
 Images for training data: http://vision.stanford.edu/aditya86/ImageNetDogs/
 
-Python files
+Python and Java files: coming soon...
 
 Algorithms/data structures notes: https://tinyurl.com/y93nwbjz
+
+Bayesian statistics notes: coming soon...
 
 Scientific articles and resources: https://tinyurl.com/y783pklv
