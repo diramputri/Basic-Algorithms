@@ -1,11 +1,11 @@
+
 package sortSelection;
-import java.util.Arrays;
-public class array {
+public class sortSelection {
 	
 	public static void main(String[] args) {
 		
-	int[] lst = {5,9,1,10,3};
-	int min = 0;
+	int[] lst = {5,9,1,10,3}; //this is my set of cards
+	int min = 0; //starting index
 	int n = lst.length; //the length is a guide for how many iterations will take place
 	 
 	    for (int i = 0; i < n; i++) {
@@ -21,4 +21,8 @@ public class array {
 	    }
 	}
 }
+
+//i++ means adding 1 to i after each iteration, the first for loop goes through n-1 iterations. It divides the cards into subsets
+
+//the second for loop accounts for moving the minimum of each subset and swapping cards with a temporary object
 
